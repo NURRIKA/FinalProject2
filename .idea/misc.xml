@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_about.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_add_stock.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_book.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_book1.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_book2.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_clothing.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_clothing2.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_clothing3n.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_clothing4.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_clothing_type_mactivity.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_clothing_type_wactivity.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_clothings.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_clothings2.xml" value="0.1" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_clothings3.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_electronic.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_electronic1.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_electronic2.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_electronic3.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_home.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_home_admin.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_home_staff.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_home_user.xml" value="0.22" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_login_admin.xml" value="0.2" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_login_staff.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_login_user.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_main.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_men.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_others.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_others1.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_others2.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_register_staff.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_register_user.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/content_login_admin.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/row_items.xml" value="0.2" />
+        <entry key="..\:/Users/Jordan Liwe/AndroidStudioProjects/FinalProject2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

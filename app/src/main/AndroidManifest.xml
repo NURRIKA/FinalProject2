@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.marcod.finalproject2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FinalProject2">
+        <activity
+            android:name=".Others2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Others1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Book2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Book1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Electronic3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Electronic2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Electronic1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".MenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Clothing3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Clothing4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Clothing2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Clothings3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ClothingTypeWActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Clothings2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ClothingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddStockActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterStaffActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeAdminActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OthersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ElectronicActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ClothingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeUserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeStaffActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginStaffActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginAdminActivity"
+            android:exported="false"
+            android:label="@string/title_activity_login_admin"
+            android:theme="@style/Theme.FinalProject2.NoActionBar" />
+        <activity
+            android:name=".LoginUserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterUserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
