@@ -6,5 +6,5 @@
 3. Ayse Datun Illahi --> Staff
 
 ~ Akun Admin
-username : admin
-password : 123
+1. username : admin
+2. password : 123
